@@ -65,7 +65,7 @@ namespace GeoJsonArea
         /// Reference:
         /// Robert. G. Chamberlain and William H. Duquette, "Some Algorithms for
         /// Polygons on a Sphere", JPL Publication 07-03, Jet Propulsion
-        /// Laboratory, Pasadena, CA, June 2007 <see href="https://trs.jpl.nasa.gov/handle/2014/41271"/>
+        /// Laboratory, Pasadena, CA, June 2007 <see href="https://hdl.handle.net/2014/41271"/>
         /// </summary>
         /// <returns>The approximate signed geodesic area of the polygon in square
         /// meters.</returns>
