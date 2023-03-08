@@ -43,7 +43,6 @@ namespace GeoJsonArea
             if (e.MoveNext() == false) return 0;
             do area += Geometry(e.Current);
             while (e.MoveNext());
-
             return area;
         }
 
@@ -88,7 +87,6 @@ namespace GeoJsonArea
                         lowerIndex = coordsLength - 2;
                         middleIndex = coordsLength - 1;
                         upperIndex = 0;
-
                     }
                     else if (i == coordsLength - 1)
                     {
