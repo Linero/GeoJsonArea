@@ -1,10 +1,4 @@
-﻿using GeoJSON.Net;
-using GeoJSON.Net.Geometry;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using GeoJSON.Net.Geometry;
 
 namespace GeoJsonArea
 {
